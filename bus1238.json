@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "27/08/2026 15:42",
+  "updatedAt": "27/08/2026 15:49",
   "notice": "",
   "directions": [
     {
@@ -12,30 +12,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "15:48",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "15:56",
-            "status": "early",
-            "detail": "Avance estimée : 2 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
             "time": "16:14",
             "status": "early",
             "detail": "Avance estimée : 2 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "16:23",
+            "time": "16:22",
             "status": "early",
-            "detail": "Avance estimée : 4 min",
+            "detail": "Avance estimée : 5 min",
             "timeSource": "realtime"
           }
         }
@@ -50,21 +35,6 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "15:45",
-            "status": "late",
-            "detail": "Retard estimé : +2 min",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "16:08",
-            "status": "early",
-            "detail": "Avance estimée : 2 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
             "time": "16:40",
             "status": "late",
             "detail": "Retard estimé : +3 min",
@@ -74,6 +44,21 @@
             "time": "17:07",
             "status": "late",
             "detail": "Retard estimé : +2 min",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "17:34",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "18:01",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
             "timeSource": "realtime"
           }
         }
