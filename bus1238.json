@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "31/08/2026 17:56",
+  "updatedAt": "31/08/2026 18:00",
   "notice": "",
   "directions": [
     {
@@ -16,6 +16,21 @@
             "status": "late",
             "detail": "Retard estimé : +7 min",
             "timeSource": "realtime"
+          },
+          "b": {
+            "time": "—",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "18:25",
+            "status": "cancelled",
+            "detail": "Mission annulée",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "—",
