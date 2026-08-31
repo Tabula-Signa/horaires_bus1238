@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "31/08/2026 15:28",
+  "updatedAt": "31/08/2026 15:35",
   "notice": "",
   "directions": [
     {
@@ -12,15 +12,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "15:48",
-            "status": "early",
-            "detail": "Avance estimée : 2 min",
+            "time": "15:49",
+            "status": "on-time",
+            "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "15:55",
+            "time": "15:57",
             "status": "early",
-            "detail": "Avance estimée : 4 min",
+            "detail": "Avance estimée : 3 min",
             "timeSource": "realtime"
           }
         },
@@ -50,25 +50,25 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "15:33",
+            "time": "16:17",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "15:58",
-            "status": "early",
-            "detail": "Avance estimée : 3 min",
-            "timeSource": "realtime"
+            "time": "—",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           }
         },
         {
           "label": "Passage suivant",
           "a": {
-            "time": "16:17",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
+            "time": "16:50",
+            "status": "cancelled",
+            "detail": "Mission annulée",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "—",
