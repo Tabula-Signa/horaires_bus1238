@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "31/08/2026 18:49",
+  "updatedAt": "31/08/2026 18:56",
   "notice": "",
   "directions": [
     {
@@ -12,10 +12,25 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "19:04",
-            "status": "late",
-            "detail": "Retard estimé : +2 min",
+            "time": "19:03",
+            "status": "on-time",
+            "detail": "À l'heure",
             "timeSource": "realtime"
+          },
+          "b": {
+            "time": "—",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "19:28",
+            "status": "cancelled",
+            "detail": "Mission annulée",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "—",
