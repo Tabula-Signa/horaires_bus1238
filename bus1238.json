@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "01/09/2026 20:21",
+  "updatedAt": "01/09/2026 20:28",
   "notice": "",
   "directions": [
     {
@@ -23,6 +23,21 @@
             "detail": "À l'heure",
             "timeSource": "realtime"
           }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "21:24",
+            "status": "late",
+            "detail": "Retard estimé : +2 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "21:29",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
+            "timeSource": "realtime"
+          }
         }
       ]
     },
@@ -31,23 +46,7 @@
       "title": "Sens Boisemont Montrouge → Cergy Préfecture",
       "stopA": "Passage à Boisemont Montrouge",
       "stopB": "Arrivée à Cergy-Préfecture",
-      "rows": [
-        {
-          "label": "Prochain passage",
-          "a": {
-            "time": "20:24",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "20:51",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          }
-        }
-      ]
+      "rows": []
     }
   ]
 }
