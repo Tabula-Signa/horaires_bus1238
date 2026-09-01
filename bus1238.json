@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "01/09/2026 09:56",
+  "updatedAt": "01/09/2026 10:00",
   "notice": "",
   "directions": [
     {
@@ -18,7 +18,7 @@
             "timeSource": "realtime"
           },
           "b": {
-            "time": "10:18",
+            "time": "10:20",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -57,9 +57,9 @@
           },
           "b": {
             "time": "10:38",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           }
         },
         {
