@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "01/09/2026 12:56",
+  "updatedAt": "01/09/2026 13:00",
   "notice": "",
   "directions": [
     {
@@ -12,13 +12,13 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "13:28",
+            "time": "13:29",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "13:36",
+            "time": "13:37",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -50,15 +50,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "13:11",
+            "time": "13:13",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "13:34",
-            "status": "early",
-            "detail": "Avance estimée : 4 min",
+            "time": "13:38",
+            "status": "on-time",
+            "detail": "À l'heure",
             "timeSource": "realtime"
           }
         },
