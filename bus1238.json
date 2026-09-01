@@ -1,37 +1,8 @@
 {
-  "serviceState": "active",
-  "updatedAt": "01/09/2026 20:56",
+  "serviceState": "out_of_service",
+  "serviceMessage": "Le bus 1238 n'est pas en service actuellement.",
+  "nextServiceLabel": "Reprise du service demain à 05:30.",
+  "updatedAt": "01/09/2026 21:00",
   "notice": "",
-  "directions": [
-    {
-      "id": "vers-taillette",
-      "title": "Sens Boisemont Montrouge → La Taillette",
-      "stopA": "Passage à Boisemont Montrouge",
-      "stopB": "Arrivée à La Taillette",
-      "rows": [
-        {
-          "label": "Prochain passage",
-          "a": {
-            "time": "21:24",
-            "status": "late",
-            "detail": "Retard estimé : +2 min",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "21:32",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          }
-        }
-      ]
-    },
-    {
-      "id": "vers-cergy-prefecture",
-      "title": "Sens Boisemont Montrouge → Cergy Préfecture",
-      "stopA": "Passage à Boisemont Montrouge",
-      "stopB": "Arrivée à Cergy-Préfecture",
-      "rows": []
-    }
-  ]
+  "directions": []
 }
