@@ -1,8 +1,83 @@
 {
-  "serviceState": "out_of_service",
-  "serviceMessage": "Le bus 1238 n'est pas en service actuellement.",
-  "nextServiceLabel": "Reprise du service aujourd’hui à 05:30.",
-  "updatedAt": "03/09/2026 05:28",
+  "serviceState": "active",
+  "updatedAt": "03/09/2026 05:35",
   "notice": "",
-  "directions": []
+  "directions": [
+    {
+      "id": "vers-taillette",
+      "title": "Sens Boisemont Montrouge → La Taillette",
+      "stopA": "Passage à Boisemont Montrouge",
+      "stopB": "Arrivée à La Taillette",
+      "rows": [
+        {
+          "label": "Prochain passage",
+          "a": {
+            "time": "06:43",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "06:53",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "07:14",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "07:21",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
+            "timeSource": "realtime"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vers-cergy-prefecture",
+      "title": "Sens Boisemont Montrouge → Cergy Préfecture",
+      "stopA": "Passage à Boisemont Montrouge",
+      "stopB": "Arrivée à Cergy-Préfecture",
+      "rows": [
+        {
+          "label": "Prochain passage",
+          "a": {
+            "time": "05:44",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "06:08",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "06:04",
+            "status": "late",
+            "detail": "Retard estimé : +5 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "06:27",
+            "status": "late",
+            "detail": "Retard estimé : +5 min",
+            "timeSource": "realtime"
+          }
+        }
+      ]
+    }
+  ]
 }
