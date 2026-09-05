@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "05/09/2026 07:49",
+  "updatedAt": "05/09/2026 07:56",
   "notice": "",
   "directions": [
     {
@@ -12,13 +12,13 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "08:14",
+            "time": "08:13",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "08:21",
+            "time": "08:20",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -28,9 +28,9 @@
           "label": "Passage suivant",
           "a": {
             "time": "09:34",
-            "status": "unknown",
-            "detail": "Pas de données",
-            "timeSource": "scheduled"
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
           },
           "b": {
             "time": "—",
@@ -50,10 +50,10 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "08:06",
-            "status": "unknown",
-            "detail": "Pas de données",
-            "timeSource": "scheduled"
+            "time": "08:03",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
+            "timeSource": "realtime"
           },
           "b": {
             "time": "—",
@@ -65,16 +65,16 @@
         {
           "label": "Passage suivant",
           "a": {
-            "time": "08:34",
-            "status": "unknown",
-            "detail": "Pas de données",
-            "timeSource": "scheduled"
+            "time": "08:33",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
           },
           "b": {
-            "time": "09:01",
-            "status": "unknown",
-            "detail": "Pas de données",
-            "timeSource": "scheduled"
+            "time": "08:58",
+            "status": "early",
+            "detail": "Avance estimée : 3 min",
+            "timeSource": "realtime"
           }
         }
       ]
