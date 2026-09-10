@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "10/09/2026 06:42",
+  "updatedAt": "10/09/2026 06:49",
   "notice": "",
   "directions": [
     {
@@ -12,13 +12,13 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "06:43",
-            "status": "on-time",
-            "detail": "À l'heure",
+            "time": "07:16",
+            "status": "late",
+            "detail": "Retard estimé : +2 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "06:51",
+            "time": "07:23",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -27,13 +27,13 @@
         {
           "label": "Passage suivant",
           "a": {
-            "time": "07:14",
+            "time": "07:38",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "07:23",
+            "time": "07:48",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -50,21 +50,6 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "06:43",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "07:12",
-            "status": "late",
-            "detail": "Retard estimé : +3 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
             "time": "07:03",
             "status": "on-time",
             "detail": "À l'heure",
@@ -74,6 +59,21 @@
             "time": "07:30",
             "status": "on-time",
             "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "07:23",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "07:51",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
             "timeSource": "realtime"
           }
         }
