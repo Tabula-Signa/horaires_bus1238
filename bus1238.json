@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "12/09/2026 08:14",
+  "updatedAt": "12/09/2026 08:21",
   "notice": "",
   "directions": [
     {
@@ -23,6 +23,21 @@
             "detail": "Pas de données",
             "timeSource": "scheduled"
           }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "09:34",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "09:42",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
         }
       ]
     },
@@ -35,15 +50,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "08:43",
+            "time": "08:48",
             "status": "late",
-            "detail": "Retard estimé : +9 min",
+            "detail": "Retard estimé : +14 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:08",
+            "time": "09:13",
             "status": "late",
-            "detail": "Retard estimé : +7 min",
+            "detail": "Retard estimé : +12 min",
             "timeSource": "realtime"
           }
         }
