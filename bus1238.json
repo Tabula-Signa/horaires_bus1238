@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "15/09/2026 10:42",
+  "updatedAt": "15/09/2026 10:49",
   "notice": "",
   "directions": [
     {
@@ -12,30 +12,30 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "10:46",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "10:56",
-            "status": "late",
-            "detail": "Retard estimé : +2 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
             "time": "11:28",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "11:35",
+            "time": "11:36",
             "status": "on-time",
             "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "12:08",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "12:21",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
             "timeSource": "realtime"
           }
         }
@@ -50,15 +50,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "10:52",
-            "status": "on-time",
-            "detail": "À l'heure",
+            "time": "10:53",
+            "status": "late",
+            "detail": "Retard estimé : +2 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "11:19",
-            "status": "on-time",
-            "detail": "À l'heure",
+            "time": "11:20",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
             "timeSource": "realtime"
           }
         },
