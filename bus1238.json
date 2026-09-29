@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "29/09/2026 09:21",
+  "updatedAt": "29/09/2026 09:28",
   "notice": "",
   "directions": [
     {
@@ -12,13 +12,13 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "09:25",
-            "status": "on-time",
-            "detail": "À l'heure",
+            "time": "09:50",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:33",
+            "time": "09:58",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -27,13 +27,13 @@
         {
           "label": "Passage suivant",
           "a": {
-            "time": "09:48",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
+            "time": "10:10",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           },
           "b": {
-            "time": "09:58",
+            "time": "10:18",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -50,21 +50,6 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "09:27",
-            "status": "late",
-            "detail": "Retard estimé : +2 min",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "09:52",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
             "time": "09:48",
             "status": "late",
             "detail": "Retard estimé : +2 min",
@@ -74,6 +59,21 @@
             "time": "10:16",
             "status": "late",
             "detail": "Retard estimé : +2 min",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "10:12",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "10:41",
+            "status": "late",
+            "detail": "Retard estimé : +4 min",
             "timeSource": "realtime"
           }
         }
