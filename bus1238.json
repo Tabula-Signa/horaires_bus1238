@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "29/09/2026 08:35",
+  "updatedAt": "29/09/2026 08:42",
   "notice": "",
   "directions": [
     {
@@ -12,30 +12,30 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "08:36",
-            "status": "early",
-            "detail": "Avance estimée : 2 min",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "08:44",
-            "status": "early",
-            "detail": "Avance estimée : 4 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
-            "time": "08:58",
-            "status": "early",
-            "detail": "Avance estimée : 3 min",
+            "time": "09:03",
+            "status": "late",
+            "detail": "Retard estimé : +2 min",
             "timeSource": "realtime"
           },
           "b": {
             "time": "09:12",
             "status": "on-time",
             "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "09:17",
+            "status": "early",
+            "detail": "Avance estimée : 8 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "09:35",
+            "status": "late",
+            "detail": "Retard estimé : +2 min",
             "timeSource": "realtime"
           }
         }
@@ -50,13 +50,13 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "08:39",
+            "time": "09:01",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:11",
+            "time": "09:29",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
@@ -65,13 +65,13 @@
         {
           "label": "Passage suivant",
           "a": {
-            "time": "09:01",
+            "time": "09:25",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:29",
+            "time": "09:54",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
