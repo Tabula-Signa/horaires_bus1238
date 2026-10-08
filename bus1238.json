@@ -12,9 +12,9 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "07:39",
-            "status": "on-time",
-            "detail": "À l'heure",
+            "time": "07:41",
+            "status": "late",
+            "detail": "Retard estimé : +3 min",
             "timeSource": "realtime"
           },
           "b": {
@@ -31,7 +31,38 @@
       "title": "Sens Boisemont Montrouge → Cergy Préfecture",
       "stopA": "Passage à Boisemont Montrouge",
       "stopB": "Arrivée à Cergy-Préfecture",
-      "rows": []
+      "rows": [
+        {
+          "label": "Prochain passage",
+          "a": {
+            "time": "07:31",
+            "status": "late",
+            "detail": "Retard estimé : +7 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "07:53",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "07:45",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "08:17",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        }
+      ]
     }
   ]
 }
