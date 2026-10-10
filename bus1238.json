@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "10/10/2026 14:28",
+  "updatedAt": "10/10/2026 14:35",
   "notice": "",
   "directions": [
     {
@@ -8,7 +8,23 @@
       "title": "Sens Boisemont Montrouge → La Taillette",
       "stopA": "Passage à Boisemont Montrouge",
       "stopB": "Arrivée à La Taillette",
-      "rows": []
+      "rows": [
+        {
+          "label": "Prochain passage",
+          "a": {
+            "time": "15:13",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "15:22",
+            "status": "on-time",
+            "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        }
+      ]
     },
     {
       "id": "vers-cergy-prefecture",
