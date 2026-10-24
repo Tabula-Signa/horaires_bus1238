@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "24/10/2026 10:42",
+  "updatedAt": "24/10/2026 10:49",
   "notice": "",
   "directions": [
     {
@@ -12,15 +12,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "11:13",
+            "time": "11:16",
             "status": "late",
-            "detail": "Retard estimé : +4 min",
+            "detail": "Retard estimé : +7 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "11:20",
+            "time": "11:23",
             "status": "late",
-            "detail": "Retard estimé : +2 min",
+            "detail": "Retard estimé : +5 min",
             "timeSource": "realtime"
           }
         },
