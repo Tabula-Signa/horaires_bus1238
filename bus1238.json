@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "28/10/2026 10:49",
+  "updatedAt": "28/10/2026 10:56",
   "notice": "",
   "directions": [
     {
@@ -12,25 +12,25 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "11:36",
-            "status": "late",
-            "detail": "Retard estimé : +8 min",
-            "timeSource": "realtime"
+            "time": "11:28",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           },
           "b": {
-            "time": "11:45",
-            "status": "late",
-            "detail": "Retard estimé : +8 min",
-            "timeSource": "realtime"
+            "time": "11:37",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           }
         },
         {
           "label": "Passage suivant",
           "a": {
-            "time": "12:56",
-            "status": "late",
-            "detail": "Retard estimé : +8 min",
-            "timeSource": "realtime"
+            "time": "12:48",
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "12:55",
@@ -51,9 +51,9 @@
           "label": "Prochain passage",
           "a": {
             "time": "11:52",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "12:17",
@@ -66,9 +66,9 @@
           "label": "Passage suivant",
           "a": {
             "time": "13:12",
-            "status": "on-time",
-            "detail": "À l'heure",
-            "timeSource": "realtime"
+            "status": "unknown",
+            "detail": "Pas de données",
+            "timeSource": "scheduled"
           },
           "b": {
             "time": "13:35",
