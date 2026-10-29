@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "29/10/2026 08:56",
+  "updatedAt": "29/10/2026 09:00",
   "notice": "",
   "directions": [
     {
@@ -12,30 +12,45 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "09:08",
-            "status": "late",
-            "detail": "Retard estimé : +7 min",
+            "time": "09:01",
+            "status": "on-time",
+            "detail": "À l'heure",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:17",
-            "status": "late",
-            "detail": "Retard estimé : +6 min",
+            "time": "09:10",
+            "status": "on-time",
+            "detail": "À l'heure",
             "timeSource": "realtime"
           }
         },
         {
           "label": "Passage suivant",
           "a": {
-            "time": "09:30",
+            "time": "09:31",
             "status": "late",
-            "detail": "Retard estimé : +5 min",
+            "detail": "Retard estimé : +6 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "09:31",
-            "status": "early",
-            "detail": "Avance estimée : 2 min",
+            "time": "09:38",
+            "status": "late",
+            "detail": "Retard estimé : +5 min",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "09:56",
+            "status": "late",
+            "detail": "Retard estimé : +9 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "10:01",
+            "status": "late",
+            "detail": "Retard estimé : +5 min",
             "timeSource": "realtime"
           }
         }
@@ -65,7 +80,7 @@
         {
           "label": "Passage suivant",
           "a": {
-            "time": "09:26",
+            "time": "09:25",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
