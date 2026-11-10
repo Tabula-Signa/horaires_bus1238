@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "10/11/2026 06:21",
+  "updatedAt": "10/11/2026 06:28",
   "notice": "",
   "directions": [
     {
@@ -12,15 +12,15 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "06:57",
+            "time": "06:55",
             "status": "late",
-            "detail": "Retard estimé : +14 min",
+            "detail": "Retard estimé : +13 min",
             "timeSource": "realtime"
           },
           "b": {
-            "time": "07:05",
+            "time": "07:03",
             "status": "late",
-            "detail": "Retard estimé : +14 min",
+            "detail": "Retard estimé : +12 min",
             "timeSource": "realtime"
           }
         },
@@ -50,30 +50,30 @@
         {
           "label": "Prochain passage",
           "a": {
-            "time": "06:24",
+            "time": "06:45",
             "status": "on-time",
             "detail": "À l'heure",
-            "timeSource": "realtime"
-          },
-          "b": {
-            "time": "06:45",
-            "status": "early",
-            "detail": "Avance estimée : 3 min",
-            "timeSource": "realtime"
-          }
-        },
-        {
-          "label": "Passage suivant",
-          "a": {
-            "time": "06:51",
-            "status": "late",
-            "detail": "Retard estimé : +7 min",
             "timeSource": "realtime"
           },
           "b": {
             "time": "07:09",
             "status": "on-time",
             "detail": "À l'heure",
+            "timeSource": "realtime"
+          }
+        },
+        {
+          "label": "Passage suivant",
+          "a": {
+            "time": "07:11",
+            "status": "late",
+            "detail": "Retard estimé : +8 min",
+            "timeSource": "realtime"
+          },
+          "b": {
+            "time": "07:28",
+            "status": "early",
+            "detail": "Avance estimée : 2 min",
             "timeSource": "realtime"
           }
         }
