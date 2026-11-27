@@ -1,6 +1,6 @@
 {
   "serviceState": "active",
-  "updatedAt": "27/11/2026 13:14",
+  "updatedAt": "27/11/2026 13:21",
   "notice": "",
   "directions": [
     {
@@ -56,7 +56,7 @@
             "timeSource": "realtime"
           },
           "b": {
-            "time": "14:19",
+            "time": "14:17",
             "status": "on-time",
             "detail": "À l'heure",
             "timeSource": "realtime"
